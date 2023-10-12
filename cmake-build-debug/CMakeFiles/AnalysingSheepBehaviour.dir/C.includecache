@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/krawi/CLionProjects/AnalysingSheepBehaviour/functions.c
+stdio.h
+/cygdrive/c/Users/krawi/CLionProjects/AnalysingSheepBehaviour/stdio.h
+headers.h
+/cygdrive/c/Users/krawi/CLionProjects/AnalysingSheepBehaviour/headers.h
+string.h
+-
+stdlib.h
+-
+time.h
+-
+math.h
+/cygdrive/c/Users/krawi/CLionProjects/AnalysingSheepBehaviour/math.h
+
+/cygdrive/c/Users/krawi/CLionProjects/AnalysingSheepBehaviour/headers.h
+time.h
+-
+
+/cygdrive/c/Users/krawi/CLionProjects/AnalysingSheepBehaviour/main.c
+stdio.h
+-
+headers.h
+/cygdrive/c/Users/krawi/CLionProjects/AnalysingSheepBehaviour/headers.h
+

@@ -1,0 +1,6 @@
+data_file_name = "Collar_12.txt"
+movement_duration = <0.000000:45.000000>
+maximum_speed = 30.000000
+num_bars = 20
+range_lon = <-3.611000:-3.6100>
+range_lat = <52.000000:52.2540>
